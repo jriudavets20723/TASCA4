@@ -1,0 +1,3 @@
+use MER5;
+INSERT INTO CITA (ID, ubicacio, data, VEHICLE_ID, CLIENT_DNI)
+VALUES ('00008', 'C. Dels jurats', '2019-01-01', '00008', '41649723H')

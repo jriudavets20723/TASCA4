@@ -1,0 +1,4 @@
+use MER7;
+select PRODUCTE.nom, PRODUCTE.descripcio, PRODUCTE.IVA, PRODUCTE.preu_unitari
+FROM PRODUCTE
+WHERE PRODUCTE.IVA = "21%";
